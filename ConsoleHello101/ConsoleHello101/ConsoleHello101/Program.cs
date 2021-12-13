@@ -10,7 +10,7 @@ namespace ConsoleHello101
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ConsoleHello101 uyarısı.");
+            Console.WriteLine("ConsoleHello101 uyarısı. uyarı2");
         }
     }
 }
