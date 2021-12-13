@@ -1,0 +1,7 @@
+C:\Users\veyse\source\repos\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.exe.config
+C:\Users\veyse\source\repos\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.exe
+C:\Users\veyse\source\repos\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.pdb
+C:\Users\veyse\source\repos\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.exe
+C:\Users\veyse\source\repos\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.pdb
